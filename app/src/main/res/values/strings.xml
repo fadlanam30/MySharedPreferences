@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MySharedPreferences</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">LogOut</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="domisili">Domisili</string>
+
+    <string-array name="data_name">
+        <item>Fadlan</item>
+        <item>Naufal</item>
+        <item>Ihsan</item>
+        <item>Salsabila</item>
+        <item>Abrar</item>
+        <item>Arya</item>
+        <item>Angel</item>
+        <item>Wildan</item>
+        <item>Shafa</item>
+    </string-array>
+
+    <string-array name="data_domicile">
+        <item>Tangerang</item>
+        <item>Bekasi</item>
+        <item>Cikarang</item>
+        <item>Jakarta Selatan</item>
+        <item>Bekasi</item>
+        <item>Bekasi</item>
+        <item>Jakarta Barat</item>
+        <item>Jakarta Timur</item>
+        <item>Banten</item>
+    </string-array>
+
+    <string-array name="data_gender">
+        <item>Pria</item>
+        <item>Pria</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+        <item>Pria</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+
+</resources>
